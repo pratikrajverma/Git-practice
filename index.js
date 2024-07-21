@@ -4,7 +4,3 @@ function dev(){
 }
 
 dev();
-
-function prod(){
-    console.log('Running in production mode');
-}
